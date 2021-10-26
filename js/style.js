@@ -26,3 +26,5 @@ $('#share-slider').owlCarousel({
     }
 })
 //****Demo slider part ends*****//
+//***For git demo practice concept****/
+console.log("Hello my UK all developer");
